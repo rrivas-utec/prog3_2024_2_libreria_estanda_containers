@@ -1,0 +1,3 @@
+C:/Users/rudri/CLionProject/prog3_2024_2_libreria_estanda_containers/cmake-build-debug/CMakeFiles/prog3_2024_2_libreria_estanda_containers.dir
+C:/Users/rudri/CLionProject/prog3_2024_2_libreria_estanda_containers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rudri/CLionProject/prog3_2024_2_libreria_estanda_containers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
